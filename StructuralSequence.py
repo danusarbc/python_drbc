@@ -5,7 +5,7 @@
 # 1. Print Hello World
 print("Hello World")
 
-# 2. Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número].
+# 2. Input a number and print it
 num = input("Type a number: ")
 print("Your numer is: ", num)
 
