@@ -9,11 +9,13 @@ print("Hello World")
 num = input("Type a number: ")
 print("Your numer is: ", num)
 
-# 3. Faça um Programa que peça dois números e imprima a soma.
-numA = input("Type a first number:")
-numB = input("Type a second number: ")
+# 3. Ask two numbers and 
+numA = input("Type a first number: \n")
+numB = input("Type a second number: \n")
 result = int(numA) + int(numB)
 print("Result: ", result)
+
+
 
 
 
