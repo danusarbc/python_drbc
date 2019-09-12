@@ -13,4 +13,3 @@ for number in listRange:
     if num % number == 0:
         listDivide.append(number)
 print(listDivide)
-
