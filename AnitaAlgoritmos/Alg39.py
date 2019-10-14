@@ -1,4 +1,4 @@
-#Leia dois números e imprima a soma
+#Leia dois números e imprima a media
 
 x = float(input("Entre com a primeira nota: "))
 y = float(input("Entre com a segunda nota: "))
