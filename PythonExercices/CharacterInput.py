@@ -18,4 +18,4 @@ print(name, "you will complete 100 years old in: ", year)
 number = int(input("Enter a number \n"))
 for i in range(0,number):
     print(i, "-", name, "you will complete 100 years old in: ", year)
-
+´~
